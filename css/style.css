@@ -13,9 +13,8 @@ html {
 }
 
 .wrapper {
-	width: 1128px;
+	width: 1120px;
 	margin: 0 auto;
-	text-align: center;
 }
 
 header {
@@ -49,7 +48,8 @@ p {
 #main {
 	background-color: #000;
 	position: absolute;
-	width: 1120px;
+	width: 1128px;
+	text-align: center;
 }
 
 #question {
