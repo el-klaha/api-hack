@@ -13,8 +13,9 @@ html {
 }
 
 .wrapper {
-	width: 1120px;
+	width: 1128px;
 	margin: 0 auto;
+	text-align: center;
 }
 
 header {
